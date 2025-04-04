@@ -1,11 +1,11 @@
-# react-native-section-grid-list
+# react-native-simple-section-grid-list
 
-A siample section list and grid list component in react native
+A simple section list and grid list component in react native
 
 ## Installation
 
 ```sh
-npm install react-native-section-grid-list
+npm install react-native-simple-section-grid-list
 ```
 
 ## Example
