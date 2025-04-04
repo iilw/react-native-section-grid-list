@@ -1,23 +1,16 @@
-# react-native-awesome-library
+# react-native-section-grid-list
 
-A siample
+A siample section list and grid list component in react native
 
 ## Installation
 
 ```sh
-npm install react-native-awesome-library
+npm install react-native-section-grid-list
 ```
 
 ## Usage
 
 
-```js
-import { multiply } from 'react-native-awesome-library';
-
-// ...
-
-const result = await multiply(3, 7);
-```
 
 
 ## Contributing
