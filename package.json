@@ -1,7 +1,7 @@
 {
-  "name": "react-native-awesome-library",
+  "name": "react-native-section-grid-list",
   "version": "0.1.0",
-  "description": "A siample",
+  "description": "A siample section list and grid list component in react native",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
@@ -53,14 +53,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iilw/react-native-awesome-library.git"
+    "url": "git+https://github.com/iilw/react-native-section-grid-list.git"
   },
   "author": "devling <devasling@gmail.com> (https://github.com/iilw)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iilw/react-native-awesome-library/issues"
+    "url": "https://github.com/iilw/react-native-section-grid-list/issues"
   },
-  "homepage": "https://github.com/iilw/react-native-awesome-library#readme",
+  "homepage": "https://github.com/iilw/react-native-section-grid-list#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
